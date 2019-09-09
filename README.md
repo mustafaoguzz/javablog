@@ -1,2 +1,2 @@
-# javaeeexample
-Blog
+# javablog
+Blog Site
